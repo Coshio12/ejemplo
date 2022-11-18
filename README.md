@@ -1,1 +1,2 @@
-Hola soy Jose
+Hola soy Jose 
+Soy estudiante
